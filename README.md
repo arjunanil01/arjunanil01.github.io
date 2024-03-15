@@ -9,9 +9,8 @@
 - Lathes, CNCs, Angle Grinders, Arc welders, Drill presses, Grinders, Basic Hand tools, Welding Tools, Power tools
 
 ## Education
-							       		
-- M.S., Physics	| The University of Texas at Dallas (December 2019)	 			        		
-- B.S., Physics | The University of Texas at Dallas (May 2017)
+- Master of Science., Mechanical Engineering | University Houston (May 2024) 			        		
+- Bachelor of Technology., Mechanical Engineering | APJ Abdul Kalam Technological University (June 2021)
 
 ## Work Experience
 
