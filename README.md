@@ -1,14 +1,12 @@
 # Arjun Anil
 
 #### An adept engineering graduate specializing in optimizing manufacturing processes, refining CAD designs, and enhancing product performance through detailed analysis. Collaborates on design, quality assurance, and production planning to increase efficiency and lower production costs.
-#### Programming Languages :  
-##### Python, MATLAB
+#### Programming Languages : 
+- Python, MATLAB
 #### Software Tools: 
-##### AutoCAD, SOLIDWORKS, Abaqus, Ansys, Fusion 360, PTC Onshape, PRG NozzlePRO, Revit,
-##### Bluebeam Revu, Microsoft Suite, Microsoft Excel 
+- AutoCAD, SOLIDWORKS, Abaqus, Ansys, Fusion 360, PTC Onshape, PRG NozzlePRO, Revit, Bluebeam Revu, Microsoft Suite, Microsoft Excel
 #### Hardware tools: 
-##### Lathes, CNCs, Angle Grinders, Arc welders, Drill presses, Grinders, Basic
-##### Hand tools, Welding Tools, Power tools
+- Lathes, CNCs, Angle Grinders, Arc welders, Drill presses, Grinders, Basic Hand tools, Welding Tools, Power tools
 
 ## Education
 							       		
