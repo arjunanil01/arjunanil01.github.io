@@ -1,6 +1,11 @@
 # Mechanical Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
+#### Programming Languages: Python, MATLAB 
+#### Software Tools: AutoCAD, SOLIDWORKS, Abaqus, Ansys, Fusion 360, PTC Onshape, PRG NozzlePRO, Revit,
+Bluebeam Revu, Microsoft Suite, Microsoft Excel 
+#### Hardware tools: Lathes, CNCs, Angle Grinders, Arc welders, Drill presses, Grinders, Basic
+Hand tools, Welding Tools, Power tools
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (May 2022)								       		
